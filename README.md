@@ -1,2 +1,2 @@
 # test
-test_repo for git command deonstaration
+test_repo for git command demonstaration.
